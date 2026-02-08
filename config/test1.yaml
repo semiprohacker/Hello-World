@@ -9,8 +9,8 @@ persons:
         - football
   - person:
       name:
-        firstname: John R
-      age: 2000
+        firstname: Harsh R
+      age: 27
       employed: true
       hobbies:
         - tennis
