@@ -1,0 +1,17 @@
+persons:
+  - person:
+      name:
+        firstname: Harsh R
+      age: 2000
+      employed: true
+      hobbies:
+        - tennis
+        - football
+  - person:
+      name:
+        firstname: John R
+      age: 2000
+      employed: true
+      hobbies:
+        - tennis
+        - football
