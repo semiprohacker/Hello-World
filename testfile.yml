@@ -1,8 +1,0 @@
-person:
-  name:
-    first_name: monalisa
-  age: 2000
-  employed: true
-  hobbies:
-    - tennis
-    - football
